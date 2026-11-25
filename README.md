@@ -30,7 +30,7 @@ A CLI task manager for developers who live in the terminal. Add, track and finis
 ### Install
 
 ```bash
-pipx install git+https://github.com/abdursujon/Mango-Tree.git@v0.0.1
+pipx install git+https://github.com/abdursujon/mango-tree.git@v0.0.1
 ```
 
 ### Commands
